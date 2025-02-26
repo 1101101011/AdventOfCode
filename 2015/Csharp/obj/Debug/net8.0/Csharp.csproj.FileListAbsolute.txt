@@ -1,0 +1,14 @@
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/bin/Debug/net8.0/Csharp
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/bin/Debug/net8.0/Csharp.deps.json
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/bin/Debug/net8.0/Csharp.runtimeconfig.json
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/bin/Debug/net8.0/Csharp.dll
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/bin/Debug/net8.0/Csharp.pdb
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/obj/Debug/net8.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/obj/Debug/net8.0/Csharp.AssemblyInfoInputs.cache
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/obj/Debug/net8.0/Csharp.AssemblyInfo.cs
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/obj/Debug/net8.0/Csharp.csproj.CoreCompileInputs.cache
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/obj/Debug/net8.0/Csharp.dll
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/obj/Debug/net8.0/refint/Csharp.dll
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/obj/Debug/net8.0/Csharp.pdb
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/obj/Debug/net8.0/Csharp.genruntimeconfig.cache
+/home/Shiroe/Documents/AdventOfCode/2015/Csharp/obj/Debug/net8.0/ref/Csharp.dll
